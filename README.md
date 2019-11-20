@@ -1,6 +1,6 @@
 # Breeze
 Breeze is a web application for drug sensitivity and resistance testing data analysis platform available at https://breeze.fimm.fi.
-<a href="https://breeze.fimm.fi"><img src="https://breeze.fimm.fi/18226_mc4wnjq5odawmcaxnty3ndi1odyx/imgs/main.png" align="left" hspace="10" vspace="6"></a>
+<a href="https://breeze.fimm.fi/19419_mc42ntiynduwmcaxntc0mjyzndk0/imgs/main.png" align="left" hspace="10" vspace="6"></a>
 
 
 **Breeze** web application R source code. The public version of web application (https://breeze.fimm.fi) uses R and PHP.
