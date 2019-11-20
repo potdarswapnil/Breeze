@@ -15,6 +15,6 @@ Code copyright 2019 Breeze.
 Breeze developed at Institute for Molecular Medicine, Finland (FIMM) a HiLIFE unit at University of Helsinki. 
 https://www.fimm.fi/
 
-Code released under the [BSD 3-clause license] (https://github.com/AleksandrIanevski/SynergyFinder/blob/master/LICENSE)
+Code released under the [BSD 3-clause license] (https://github.com/potdarswapnil/Breeze/blob/master/LICENSE)
 
 
